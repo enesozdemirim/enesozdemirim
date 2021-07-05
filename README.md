@@ -1,5 +1,5 @@
-<h1 align="center">Merhaba 👋,Ben Enes Özdemir</h1>
-<h3 align="center">Harçlığını Çıkartmaya Çalışan Meraklı Bir Genç</h3>
+<h1 align="center">Hello 👋, I'm Enes Özdemir</h1>
+<h3 align="center">A Curious Teen Trying to Get His Money</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesozdemirim&label=Profile%20views&color=0e75b6&style=flat" alt="enesozdemirim" /> </p>
 
@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/enesozdemirim" target="blank"><img src="https://img.shields.io/twitter/follow/enesozdemirim?logo=twitter&style=for-the-badge" alt="enesozdemirim" /></a> </p>
 
-- 🔭 Şu anda bu projenin üzerinde çalışıyorum [ENS Bot](https://github.com/enesozdemirim/newens)
+- 🔭 I am currently working on this project [ENS Bot](https://github.com/enesozdemirim/newens)
 
-- 🌱 Şu anda bunu öğreniyorum: **Flutter**
+- 🌱 I'm currently learning this: **Flutter**
 
-- 👨‍💻 Tüm projelerim şu adreste mevcuttur: [http://enesozdemir.site/](http://enesozdemir.site/)
+- 👨‍💻 All my projects are available at: [https://enesozdemir.site/](https://enesozdemir.site/)
 
-- 📝 Düzenli olarak şu konularda makaleler yazıyorum: [https://makerstreets.com/author/enesozdemir/](https://makerstreets.com/author/enesozdemir/)
+- 📝 I regularly write articles on: [https://makerstreets.com/author/enesozdemir/](https://makerstreets.com/author/enesozdemir/)
 
-- 💬 Bana sor: **Javascript**
+- 💬 Ask me: **Javascript**
 
-- 📫 Bana nasıl ulaşabilirsin ? **iletisimens@gmail.com**
+- 📫 How can you reach me? **iletisimens@gmail.com**
 
-- 📄 Deneyimlerimden haberdar olun [http://enesozdemir.site/blog.html](http://enesozdemir.site/blog.html)
+- 📄 Be aware of my experiences [https://enesozdemir.site/blog.html](https://enesozdemir.site/blog.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
