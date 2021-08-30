@@ -23,6 +23,6 @@
 <a href="https://instagram.com/enesozdemirim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enesozdemirim" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/enesözdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="enesözdemir" height="30" width="40" /></a>
 <a href="https://discord.gg/vfAFnJ6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vfAFnJ6" height="30" width="40" /></a>
-<a href="https://discord.gg/vfAFnJ6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="vfAFnJ6" height="30" width="40" /></a>
+<a href="https://discord.gg/vfAFnJ6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/url.svg" alt="vfAFnJ6" height="30" width="40" /></a>
 </p>
 
