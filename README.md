@@ -7,15 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/enesozdemirim" target="blank"><img src="https://img.shields.io/twitter/follow/enesozdemirim?logo=twitter&style=for-the-badge" alt="enesozdemirim" /></a> </p>
 
-- 🔭 I am currently working on this project [ENS Bot](https://github.com/enesozdemirim/newens)
-
-- 🌱 I'm currently learning this: **Flutter**
-
 - 👨‍💻 All my projects are available at: [https://enesozdemir.site/](https://enesozdemir.site/)
 
 - 📝 I regularly write articles on: [https://makerstreets.com/author/enesozdemir/](https://makerstreets.com/author/enesozdemir/)
-
-- 💬 Ask me: **Javascript**
 
 - 📫 How can you reach me? **iletisimens@gmail.com**
 
