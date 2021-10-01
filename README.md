@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Enes Özdemir</h1>
-<h3 align="center">A Curious Teen Trying to Get His Money</h3>
+<h3 align="center">I produce and develop ...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesozdemirim&label=Profile%20views&color=0e75b6&style=flat" alt="enesozdemirim" /> </p>
 
