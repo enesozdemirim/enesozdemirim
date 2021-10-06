@@ -12,7 +12,7 @@
 
 - 📫 How can you reach me? **iletisimens@gmail.com**
 
-- 📄 Be aware of my experiences [https://enesozdemir.site/blog.html](https://enesozdemir.site/blog.html)
+- 📄 Be aware of my experiences [https://enesozdemir.site/hakkinda.html](https://enesozdemir.site/blog.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
