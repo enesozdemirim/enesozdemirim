@@ -8,8 +8,6 @@
 
 - 👨‍💻 All my projects are available at: [https://enesozdemir.site/](https://enesozdemir.site/)
 
-- 📝 I regularly write articles on: [https://makerstreets.com/author/enesozdemir/](https://makerstreets.com/author/enesozdemir/)
-
 - 📫 How can you reach me? **iletisimens@gmail.com**
 
 - 📄 Be aware of my experiences [https://enesozdemir.site/hakkinda.html](https://enesozdemir.site/hakkinda.html)
