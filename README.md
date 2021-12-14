@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesozdemirim&label=Profile%20views&color=0e75b6&style=flat" alt="enesozdemirim" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/enesozdemirim" target="blank"><img src="https://img.shields.io/twitter/follow/enesozdemirim?logo=twitter&style=for-the-badge" alt="enesozdemirim" /></a> </p>
 
 - 👨‍💻 All my projects are available at: [https://enesozdemir.site/](https://enesozdemir.site/)
 
