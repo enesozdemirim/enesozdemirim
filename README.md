@@ -13,7 +13,7 @@
 
 <table class="center">
 <tr> 
-          Connect with me
+          <h3 align="left">Connect with me:</h3>
  </tr>
 <tr>
   <td><a href="https://youtube.com/enesozdemir">
